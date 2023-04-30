@@ -3,4 +3,13 @@ acılı bir bakış
 yerleşirse eğer
 her şeyin bedeli var güzeeliininde
 pull deneyorum
+
 conflict
+rana branche değiştiricem
+
+
+conflict
+
+conflict
+
+//rana branchende değişiklik yağpıyorum
