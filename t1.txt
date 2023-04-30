@@ -16,3 +16,4 @@ conflict
 //tekrar deneme
 
 stash yapmaya çalışıyorum
+pull deniyoruz
