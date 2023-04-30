@@ -4,3 +4,4 @@ yerleşirse eğer
 her şeyin bedeli var güzeeliininde
 pull deneyorum
 conflict
+rana branche değiştiricem
